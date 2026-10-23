@@ -1,0 +1,6 @@
+{
+  "name": "md-review",
+  "description": "Local-first Markdown AI-assisted reviewer with live rendered preview, inline unified diffs, Mermaid validation, version history snapshots, and custom model support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
